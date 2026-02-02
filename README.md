@@ -27,4 +27,4 @@ A website of my favourite photos
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/koiyodenis/photog.git
