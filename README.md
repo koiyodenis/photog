@@ -5,25 +5,26 @@ Photography Website
 Denis Koiyo
 
 ## Description
+A website of my favourite photos
 
-
-**Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
 
 ## Technologies Used
 - HTML
-- Css
-- 
+- Css 
 
 ## Project Setup Instructions
+-Download this repository from github
+-Open the project folder
 
-### Prerequisites
-- Node.js (version x.x.x or higher)
-- npm or yarn
+
+### Support and contact details
+-You can contact me via koiyodennis@gmail.com
+-My X handle is @koiyodennis
+
+### License
+-This project is licensed under the MIT License - see the LICENSE file for details
 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-project-name.git
+   git clone 
